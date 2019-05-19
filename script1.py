@@ -1,3 +1,5 @@
+#Basic facebook login script
+
 import selenium
 from selenium import webdriver
 
